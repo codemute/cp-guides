@@ -28,7 +28,7 @@ the only factors affecting your success.
 
 | S.No. |                                           Guide Name                                           |                                           Source                                          | Length | Ratings |
 |:-----:|:----------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------:|:-------:|
-|   1   | [CodeChef CCDSAP Prepare](https://github.com/cp-guides/blob/master/CodeChef-CCDSAP-Prepare.md) | [CodeChef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare) |   10   |    10   |
+|   1   | [CodeChef CCDSAP Prepare](https://github.com/codemute/cp-guides/blob/master/CodeChef-CCDSAP-Prepare.md) | [CodeChef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare) |   10   |    10   |
 
 
 **Note:** The relevant sources are mentioned for each guide. If you have any
